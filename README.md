@@ -1,2 +1,2 @@
 # hello-world
-Just a test repository
+It is a short description about the test project. Just a test repository
